@@ -1,6 +1,5 @@
 # Manga-Downloader-Extension
-Chrome/Firefox extension to download Manga/Manhua/Manhwa/Webtoons/Comics chapters as PDF/ZIP(images) from many websites.
-![Manga Downloader](https://lh3.googleusercontent.com/Xd9OW_viKyKMmdcPlqqHllkhGpCQmK-_xPuRKolVOJ5DnPjhgp3RDYKmqYe70bTTp8-IjC0-zw=w128-h128-e365-rj-sc0x00ffffff)
+Chrome/Firefox extension to download Manga/Manhua/Manhwa/Webtoons/Comics chapters as PDF/ZIP(images) from many websites.  
 
 # Chrome
 https://chrome.google.com/webstore/detail/manga-downloader/fojcpnmhelbpakmgaakfhjlmjokocgjg
