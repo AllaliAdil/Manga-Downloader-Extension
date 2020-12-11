@@ -63,6 +63,9 @@ https://addons.mozilla.org/en-US/firefox/addon/manga-downloader/
     -readmanhwa.com
     -mangatown.com
     -aloalivn.com
+    -loveheaven.net
+	-www.qiman6.com
+	-qingman5.com
 
 ## Thank you to the awesome backers via Patreon
 
