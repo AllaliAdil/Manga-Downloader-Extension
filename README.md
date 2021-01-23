@@ -63,10 +63,18 @@ https://addons.mozilla.org/en-US/firefox/addon/manga-downloader/
     -readmanhwa.com
     -mangatown.com
     -aloalivn.com
-    -loveheaven.net
     -www.qiman6.com
     -qingman5.com
     -full-metal-alchemist.com
+    -manhuaplus.com
+	-mangaclash.com
+	-manhuasworld.com
+	-www.funmanga.com
+	-www.mngdoom.com
+	-www.mangainn.net
+	-mangafast.net
+	-kissaway.net
+	-lovehug.net       (old loveheaven.net)
 
 
 ## Thank you to the awesome backers via Patreon
