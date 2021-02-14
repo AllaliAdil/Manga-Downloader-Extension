@@ -54,7 +54,8 @@ https://addons.mozilla.org/en-US/firefox/addon/manga-downloader/
     -mangafort.com
     -1stkissmanga.com
     -mangasail.co
-    -mangatail.me
+    -mangatail.me    (redirect to www.mangasaki.com)
+    -www.mangasaki.com
     -zinmanga.com
     -365manga.com
     -toonily.net
@@ -67,15 +68,15 @@ https://addons.mozilla.org/en-US/firefox/addon/manga-downloader/
     -qingman5.com
     -full-metal-alchemist.com
     -manhuaplus.com
-	-mangaclash.com
-	-manhuasworld.com
-	-www.funmanga.com
-	-www.mngdoom.com
-	-www.mangainn.net
-	-mangafast.net
-	-kissaway.net
-	-lovehug.net       (old loveheaven.net)
-
+    -mangaclash.com
+    -manhuasworld.com
+    -www.funmanga.com
+    -www.mngdoom.com
+    -www.mangainn.net
+    -mangafast.net
+    -kissaway.net
+    -lovehug.net       (old loveheaven.net)
+    
 
 ## Thank you to the awesome backers via Patreon
 
