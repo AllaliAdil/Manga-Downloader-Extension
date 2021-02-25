@@ -83,6 +83,7 @@ https://addons.mozilla.org/en-US/firefox/addon/manga-downloader/
     -Nicole Marie T. Ma-amo
     -Anne Marrie
     -innesfree
+    -kelvin
     
 <a href="https://www.patreon.com/allaliadil">
 <img src="https://c5.patreon.com/external/logo/become_a_patron_button.png" alt="Became a patreon">
