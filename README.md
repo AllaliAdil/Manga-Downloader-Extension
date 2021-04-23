@@ -3,6 +3,9 @@ Chrome/Firefox extension to download Manga/Manhua/Manhwa/Webtoons/Comics chapter
 
 <img src="https://lh3.googleusercontent.com/Xd9OW_viKyKMmdcPlqqHllkhGpCQmK-_xPuRKolVOJ5DnPjhgp3RDYKmqYe70bTTp8-IjC0-zw=w128-h128-e365-rj-sc0x00ffffff" alt="Manga Downloader">
 
+# How to install (Chromium 80 / Firefox 86)  
+https://github.com/AllaliAdil/Manga-Downloader-Extension/tree/main/Browsers
+
 # Chrome 80 or less
 https://chrome.google.com/webstore/detail/manga-downloader/fojcpnmhelbpakmgaakfhjlmjokocgjg
 
