@@ -28,12 +28,12 @@ Download the file
 ![Choose a language](Images/Firefox%2003.jpg)  
 
 Installation steps  
-![step 1](Images/Firefox%2004.jpg) 
-![step 2](Images/Firefox%2005.jpg) 
-![step 3](Images/Firefox%2006.jpg) 
-![step 4](Images/Firefox%2007.jpg) 
-![step 5](Images/Firefox%2008.jpg) 
-![step 6](Images/Firefox%2009.jpg) 
+![step 1](Images/Firefox%2004.jpg)  
+![step 2](Images/Firefox%2005.jpg)  
+![step 3](Images/Firefox%2006.jpg)  
+![step 4](Images/Firefox%2007.jpg)  
+![step 5](Images/Firefox%2008.jpg)  
+![step 6](Images/Firefox%2009.jpg)  
 
 go to "Mozilla Firefox 86" folder and create new folder "distribution"  
 ![install location](Images/Firefox%2010.jpg) 
