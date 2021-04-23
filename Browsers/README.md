@@ -38,11 +38,11 @@ Installation steps
 go to "Mozilla Firefox 86" folder and create new folder "distribution"  
 ![install location](Images/Firefox%2010.jpg) 
 
-download and move "policies.json" file inside 
+download and move "policies.json" file inside  
 ![policies file](Images/Firefox%2011.jpg) 
 
-Launch Firefox 
+Launch Firefox  
 ![Launche Firefox](Images/Firefox%2012.jpg) 
 
-Click the menu button Menu(3 horizontal lines), click Help and select About Firefox 
+Click the menu button Menu(3 horizontal lines), click Help and select About Firefox  
 ![update disabled](Images/Firefox%2013.jpg) 
