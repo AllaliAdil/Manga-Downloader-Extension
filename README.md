@@ -48,7 +48,7 @@ https://addons.mozilla.org/en-US/firefox/addon/manga-downloader/
     -dbsmanga.com (Dragon Ball Super)
     -sektekomik.com
     -kiryuu.co
-    -mangadex.org
+    -
     -rawdevart.com
     -mangasee123.com
     -webtoons.com
