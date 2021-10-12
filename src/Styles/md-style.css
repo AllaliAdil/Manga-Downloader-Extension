@@ -1,0 +1,92 @@
+.md-download-button {
+    border: 1px solid #1d1d1d;
+    background-color: #f4f4f4;
+    color: #000000;
+    padding: 0 10px;
+}
+
+.md-download-button:hover {
+    border: 1px solid #000000;
+    background-color: #dfdfdf;
+    color: #000000;
+}
+
+.md-download-button:disabled,
+.md-download-button[disabled]{
+    border: 1px solid #999999;
+    background-color: #999999;
+    color: #666666;
+}
+
+.md-mangakakalot-highlight:hover {
+    background: rgba(255, 115, 0, 0.09);
+}
+
+.md-highlight:hover {
+    background: rgba(255, 255, 255, 0.274);
+}
+
+.md-float-modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 999; /* Sit on top */
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%; /* Full width */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content/Box */
+.md-float-modal-content {
+    background-color: #fefefe;
+    margin: 15% auto; /* 15% from the top and centered */
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%; /* Could be more or less, depending on screen size */
+}
+
+/* The Close Button */
+.md-float-close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.md-float-close:hover,
+.md-float-close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/* The batch download Progress bar */
+.md-progress-container {
+    width: 100%;
+    background-color: grey;
+    margin-top: 10px;
+}
+
+.md-progress-bar {
+    width: 0%;
+    height: 30px;
+    background-color: #4CAF50;
+    text-align: center; /* To center it horizontally (if you want) */
+    line-height: 30px; /* To center it vertically */
+    color: white;
+}
+
+/* all chapter list in select */
+#md-float-chapter-list {
+    width: 100%;
+    margin-top: 10px;
+}
+
+.md-qiman6-chapter {
+    display: inline-block;
+    border: 1px solid #dadada;
+    margin-left: 20px;
+    margin-top: 15px;
+}
