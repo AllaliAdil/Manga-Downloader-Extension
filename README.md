@@ -1,3 +1,6 @@
+# IMPORTANT NOTE
+-New websites will not be add for now. The SOURCE CODE is available, you can add the websites you want.  
+
 # Manga-Downloader-Extension
 Chrome/Firefox extension to download Manga/Manhua/Manhwa/Webtoons/Comics chapters as PDF/ZIP(images) from many websites.  
 
@@ -13,12 +16,10 @@ https://chrome.google.com/webstore/detail/manga-downloader/fojcpnmhelbpakmgaakfh
 https://addons.mozilla.org/en-US/firefox/addon/manga-downloader/
 
 # Supported Websites
-    -mangareader.net
-    -mangapanda.com
+    -The source code is available, you can add the websites you want.
+
     -mangakiss.org
     -mangakomi.com
-    -ww3.mangafox.online (most of the images don't show)
-    -kissmanga.com (Terminated)
     -mangakakalot.com
     -manganelo.com
     -readnaruto.com (Naruto & Boruto)
@@ -46,14 +47,10 @@ https://addons.mozilla.org/en-US/firefox/addon/manga-downloader/
     -readberserk.com
     -readdrstone.com
     -dbsmanga.com (Dragon Ball Super)
-    -sektekomik.com
-    -kiryuu.co
-    -
     -rawdevart.com
     -mangasee123.com
     -webtoons.com
     -manga4life.com
-    -mangazone.cc
     -mangafort.com
     -1stkissmanga.com
     -mangasail.co
@@ -66,19 +63,21 @@ https://addons.mozilla.org/en-US/firefox/addon/manga-downloader/
     -mangatx.com
     -readmanhwa.com
     -mangatown.com
-    -aloalivn.com
     -www.qiman6.com
     -qingman5.com
     -full-metal-alchemist.com
     -manhuaplus.com
     -mangaclash.com
-    -manhuasworld.com
     -www.funmanga.com
     -www.mngdoom.com
     -www.mangainn.net
     -mangafast.net
     -kissaway.net
-    -lovehug.net       (old loveheaven.net)
+
+    -kissmanga.com (Terminated)
+    -mangareader.net (Not working)
+    -mangapanda.com	(Not working)
+    -ww3.mangafox.online (most of the images don't show)
     
 
 ## Thank you to the awesome backers via Patreon
