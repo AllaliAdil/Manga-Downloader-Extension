@@ -53,6 +53,7 @@ if(document.querySelector("span#azerty") === null){
             break;
         case "manganelo.com":
         case "manganato.com":
+        case "chapmanganato.com":
         case "readmanganato.com":
             manganeloF();
             break;
